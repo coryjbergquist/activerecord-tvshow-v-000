@@ -1,4 +1,4 @@
-require 'shows_controller'
+require './models'
 
 class Show < ActiveRecord::Base
 
