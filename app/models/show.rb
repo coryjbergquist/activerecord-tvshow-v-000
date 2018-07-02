@@ -1,4 +1,4 @@
-require '..app/models/shows_controller.rb'
+require_relative 'shows_controller'
 
 class Show < ActiveRecord::Base
 
