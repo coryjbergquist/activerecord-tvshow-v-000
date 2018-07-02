@@ -1,4 +1,4 @@
-require './models'
+require '../models'
 
 class Show < ActiveRecord::Base
 
